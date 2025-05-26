@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Python version == 3.10
+Python version >= 3.10
 
 ## 📦 Setup Instructions
 
